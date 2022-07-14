@@ -15,5 +15,5 @@
 #### 유니티의 코루틴도 근본적으로 동기 방식이기 때문에 일반적인 동기 방식과 같이 끊김 현상이 발생한다.
 ![Coroutine_AdobeExpress](https://user-images.githubusercontent.com/69672253/178983545-f28d567b-e2dd-4007-85cc-88cca80c324e.gif)
 
-## 동기 방식의 보이지 않는 부분
+## 동기 방식의 보여지지 않는 부분
 ![Sycn_Detail_AdobeExpress](https://user-images.githubusercontent.com/69672253/178983551-c9384f9c-5846-4f82-afde-7a6aea159f4c.gif)
